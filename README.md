@@ -23,6 +23,10 @@ items of type 1, 5 items of type 7 and 8 items of type 10.
 
 # Results
  - Results of Task 1
+ ![](Images/task1.png)
+ 
+ - Results of Task 2
+ ![](Images/task2.png)
  
 
 
