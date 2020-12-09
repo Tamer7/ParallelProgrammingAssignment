@@ -11,7 +11,7 @@ items of type 1, 5 items of type 7 and 8 items of type 10.
  1. Download and install Java Runtime Environment or Java Development Kit
  2. Clone this repo to your local machine using:
   ```bash
- git clone https://github.com/Tamer7/ImageClassifier.git
+ git clone https://github.com/Tamer7/ParallelProgrammingAssignment.git
  ```
  3. Open the folders using Eclipse or IntelliJ IDEA
 
