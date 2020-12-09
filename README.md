@@ -14,6 +14,16 @@ items of type 1, 5 items of type 7 and 8 items of type 10.
  git clone https://github.com/Tamer7/ParallelProgrammingAssignment.git
  ```
  3. Open the folders using Eclipse or IntelliJ IDEA
+ 
+ 
+# Usage
+ 1. Open the folders installed in a new project (Eclipse or IntelliJ)
+ 2. Right click on the "Main" file and click run
+ 
+
+# Results
+ - Results of Task 1
+ 
 
 
 # Built With
