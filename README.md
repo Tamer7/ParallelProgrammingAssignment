@@ -22,13 +22,19 @@ items of type 1, 5 items of type 7 and 8 items of type 10.
  
 
 # Results
- - Results of Task 1
- ![](Images/task1.png)
- 
- - Results of Task 2
- ![](Images/task2.png)
- 
+Results of Task 1
+•	The execution time for 2 threads were - 2.323 seconds 
+•	The execution time for 3 threads were – 1.307 seconds
+•	The execution time for 4 threads were – 1.303 seconds
+•	The execution time for 6 threads were – 1.289 seconds
 
+Results of Task 2
+•	The execution time for 2 threads were – 0.052 seconds 
+•	The execution time for 3 threads were – 0.031 seconds 
+•	The execution time for 4 threads were – 0.013 seconds 
+•	The execution time for 6 threads were – 0.013 seconds 
+
+ 
 
 # Built With
 
